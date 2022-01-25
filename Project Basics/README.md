@@ -1,0 +1,3 @@
+# PeaceGroupTrainee
+A combined project using React and Angular 
+Each contributor on this project was once a #Trainee with Peace Mass Transit....
