@@ -1,5 +1,5 @@
 {
-  "name": "facebookclone",
+  "name": "facebook-clone",
   "private": true,
   "scripts": {
     "dev": "next dev",
